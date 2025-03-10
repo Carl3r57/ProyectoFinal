@@ -19,6 +19,15 @@ body {
   background: #fff;
 }
 
+.tabla{
+  margin: 60px;
+  color: gray;
+}
+
+.tabla td{
+  padding: 5px;
+}
+
 .formularioInfo h1{
   color: white;
 }
