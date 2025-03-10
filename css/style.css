@@ -19,6 +19,27 @@ body {
   background: #fff;
 }
 
+aside{
+  margin-top: 30px;
+  width: 15%;
+  border: 0.5px solid gray;
+  float: left;
+  padding-bottom: 500px;
+}
+
+.imagenesToyota{
+  margin-top: 60px;
+  float: right;
+}
+
+.imagenesToyota img{
+  background-color: #dadada;
+  margin: 10px;
+  border: 1px solid grey;
+  border-radius: 20%;
+
+}
+
 #page {
   position: relative;
   overflow-x: hidden;
