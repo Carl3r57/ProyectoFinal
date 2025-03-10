@@ -25,7 +25,9 @@ aside{
   border: 0.5px solid gray;
   float: left;
   padding-bottom: 500px;
+  margin-left: 5px;
 }
+
 
 .imagenesToyota{
   margin-top: 60px;
